@@ -1,0 +1,198 @@
+﻿[
+    {
+        "url":  "/termsofuse",
+        "title":  "terms and conditions"
+    },
+    {
+        "url":  "/privacy-policy",
+        "title":  "privacy policy"
+    },
+    {
+        "url":  "https://graphy.com/legal/terms",
+        "title":  "terms and conditions"
+    },
+    {
+        "url":  "https://graphy.com/legal/privacy",
+        "title":  "privacy policy"
+    },
+    {
+        "url":  "/privacy-policy",
+        "title":  "View privacy policy"
+    },
+    {
+        "url":  "/s/store",
+        "title":  "Courses"
+    },
+    {
+        "url":  "/blog",
+        "title":  "Blog"
+    },
+    {
+        "url":  "/s/store",
+        "title":  "Add More"
+    },
+    {
+        "url":  "/s/store",
+        "title":  "Add More"
+    },
+    {
+        "url":  "/s/checkout",
+        "title":  "Checkout"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\"\u003e text-primary \"\u003ePreview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "# \"\u003e Watch Preview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\"\u003e Watch Preview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\"\u003e Watch Preview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\" style=\"font-size: 14px; font-weight: 500; text-decoration: none; color: #FB5607; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-block;\"\u003e Watch Preview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\" style=\"font-size: 14px; font-weight: 500; text-decoration: none; color: #FB5607; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-block;\"\u003e Watch Preview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\" style=\"font-size: 14px; font-weight: 500; text-decoration: none; color: #D8FD46 !important; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-block;\"\u003e Watch Preview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\" style=\"font-size: 14px; font-weight: 500; text-decoration: none; color: #D8FD46 !important; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-block;\"\u003e Watch Preview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\" style=\"font-size: 14px; font-weight: 500; text-decoration: none; color: #6715FF; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-block;\"\u003e Watch Preview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\" style=\"font-size: 14px; font-weight: 500; text-decoration: none; color: #6715FF; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-block;\"\u003e Watch Preview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\" style=\"font-size: 14px; font-weight: 500; text-decoration: none; color: #064400; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-block;\"\u003e Watch Preview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\" style=\"font-size: 14px; font-weight: 500; text-decoration: none; color: #064400; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-block;\"\u003e Watch Preview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\" style=\"font-size: 14px; font-weight: 500; text-decoration: none; color: #282400; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-block;\"\u003e Watch Preview"
+    },
+    {
+        "url":  "/s/preview/courses/\u003c@print(decodeURIComponent(summary.courseUrl).replace(/ /g,",
+        "title":  "- # \" class=\"previewBtn\" style=\"font-size: 14px; font-weight: 500; text-decoration: none; color: #282400; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-block;\"\u003e Watch Preview"
+    },
+    {
+        "url":  "https://sites.whitecoats.com/drprabir-basu-urologist/#/",
+        "title":  "Click here"
+    },
+    {
+        "url":  "https://www.facebook.com/createyourpositivehealth/",
+        "title":  "https://www.facebook.com/createyourpositivehealth/"
+    },
+    {
+        "url":  "https://www.youtube.com/c/DrPrabirBasu",
+        "title":  "https://www.youtube.com/c/DrPrabirBasu"
+    },
+    {
+        "url":  "https://www.facebook.com/malereproductivehealth",
+        "title":  "https://www.facebook.com/malereproductivehealth"
+    },
+    {
+        "url":  "https://g.page/DrPrabirBasu?gm",
+        "title":  "https://g.page/DrPrabirBasu?gm"
+    },
+    {
+        "url":  "https://www.practo.com/kolkata/doctor/prabir-basu-urologist/stories",
+        "title":  "Patient Stories"
+    },
+    {
+        "url":  "https://g.page/r/CXdAePLAnwIVEAE/review",
+        "title":  "Google Reviews"
+    },
+    {
+        "url":  "https://malehealthonlinekolkata.com/blogs/",
+        "title":  "Blogposts"
+    },
+    {
+        "url":  "https://keen-coral-7db.notion.site/Dr-Prabir-Basu-clinic-locations-appointment-booking-numbers-3b4146f57a6d80618ce7edefb4551a13?source=copy_link",
+        "title":  "Satellite Clinics of Dr Prabir Basu"
+    },
+    {
+        "url":  "https://www.youtube.com/watch?v=D7VuTUhphXU\u0026amp;list=PLdjiHb7l7sqNU7NDQQaJ8xI-RsuaOtdVW\u0026amp;index=24",
+        "title":  "Vlog"
+    },
+    {
+        "url":  "https://malehealthonlinekolkata.com/",
+        "title":  "My Practice on the web"
+    },
+    {
+        "url":  "http://www.youtube.com/@docmanbyprabirbasu",
+        "title":  "LECTURES"
+    },
+    {
+        "url":  "/s/store/courses",
+        "title":  "View More"
+    },
+    {
+        "url":  "/s/store/courses",
+        "title":  "View More"
+    },
+    {
+        "url":  "https://play.google.com/store/apps/details?id=com.whitecoats.patientplus.drprabirbasuurologist\u0026amp;hl=hi\u0026amp;gl=US\u0026amp;referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Ddr+prabir+basu+urologist",
+        "title":  "HERE"
+    },
+    {
+        "url":  "https://drprabirbasu.zohobookings.in/drprabirbasu",
+        "title":  "HERE"
+    },
+    {
+        "url":  "https://drprabirbasu.zohobookings.in/drprabirbasu",
+        "title":  "LINK"
+    },
+    {
+        "url":  "https://drprabirbasu.zohobookings.in/drprabirbasu",
+        "title":  "Pay for telemedicine"
+    },
+    {
+        "url":  "https://www.drprabirbasu.org/",
+        "title":  "Click here"
+    },
+    {
+        "url":  "https://graphy.com/products/create-and-sell-course-online?utm_campaign=drprabirbasu\u0026utm_source=gc\u0026utm_device=website\u0026gref=drprabirbasu",
+        "title":  "Launch your Graphy"
+    },
+    {
+        "url":  "https://graphy.com/products/create-and-sell-course-online?utm_campaign=drprabirbasu\u0026utm_source=gc\u0026utm_device=website\u0026gref=drprabirbasu",
+        "title":  "Graphy"
+    },
+    {
+        "url":  "/privacypolicy",
+        "title":  "Privacy policy"
+    },
+    {
+        "url":  "/termsofuse",
+        "title":  "Terms of use"
+    },
+    {
+        "url":  "/contactus",
+        "title":  "Contact us"
+    },
+    {
+        "url":  "/refundpolicy",
+        "title":  "Refund policy"
+    }
+]

@@ -1,0 +1,132 @@
+﻿1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.847059 .890196 .901961 RG
+n 48 45 m 564 45 l S
+.321569 .411765 .466667 rg
+BT 1 0 0 1 48 33 Tm /F2+0 7 Tf 8.4 TL (Dr. Prabir Basu  |  ED consultation landing page build brief) Tj T* ET
+BT 1 0 0 1 559.5464 33 Tm /F2+0 7 Tf 8.4 TL (4) Tj T* ET
+q
+1 0 0 1 54 714 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 6 Tm /F3+0 21 Tf 27 TL (Visual and interaction direction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 684 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 5 Tm /F3+0 13 Tf 18 TL (4 Design system) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 651.4 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 Look: premium, calm and clinical. Use deep navy, muted teal, warm off-white and restrained accents. Avoid) Tj T* -0.007962 Tw (sexualized imagery, flashing effects, stock photos of distressed couples, alarm graphics and \003miracle cure\004 visuals.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 54 621.3 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 Type: generous headline size, comfortable line spacing, short paragraphs and high contrast. One consistent) Tj T* (button style.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 591.2 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 Imagery: a genuine professional photograph of Dr. Basu, used with consent and accurate credentials. Subtle) Tj T* (abstract or architectural texture is preferable to patient-identifiable imagery.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 561.1 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 Layout: desktop hero in two columns \(copy and doctor photograph\); mobile in one column with headline and CTA) Tj T* (visible early. Keep line lengths short and generous whitespace.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 531.1 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 5 Tm /F3+0 13 Tf 18 TL (5 Interactions worth building) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 498.5 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 CTA: all primary buttons go to the same paid booking destination. Open a new tab only if the booking platform) Tj T* (requires it; preserve a clear return path.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 468.4 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 FAQ: accessible accordion with keyboard operation and visible focus state. Keep answers available in the HTML) Tj T* (for accessibility and search indexing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 451.1 cm
+q
+BT 1 0 0 1 0 4.1 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 Mobile: optional sticky CTA after the hero scrolls away; it must not cover FAQ answers or payment information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 421 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 Process: a three-step visual may show \003Book \006 Online discussion \006 Discuss next steps,\004 but only if that matches) Tj T* (the real booking flow. Do not imply a written plan, tests, prescription or follow-up is included unless confirmed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 390.9 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 Accessibility: semantic headings, readable labels, sufficient color contrast, alt text for the clinician photograph,) Tj T* (tap targets and reduced-motion support. Avoid autoplay audio/video.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 360.9 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 5 Tm /F3+0 13 Tf 18 TL (6 Conversion and measurement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 315.5 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 29.7 Tm /F2+0 8.7 Tf 12.8 TL (Track page views, primary CTA clicks, booking start and completed paid bookings where the booking platform) Tj T* (permits. Keep analytics free of symptom details and other sensitive information. Review mobile behavior and) Tj T* (where visitors leave the booking flow before changing copy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 61 235.6 cm
+q
+.917647 .960784 .956863 rg
+n 0 75.4 490 -75.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 54.4 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 3.3 Tm /F3+0 7.7 Tf 11 TL (LEAD MAGNET DECISION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 12 10 cm
+q
+BT 1 0 0 1 0 29.7 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (The current offer is a paid consultation) Tj (. If you later choose a free guide or email capture, treat it as a) Tj T* (separate, clearly labeled path for visitors not ready to book. Its topic, consent language, delivery method) Tj T* (and follow-up sequence need separate approval. Do not insert it into this page by default.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .890196 .901961 RG
+.5 w
+n 0 75.4 m 490 75.4 l S
+n 0 0 m 490 0 l S
+n 0 0 m 0 75.4 l S
+n 490 0 m 490 75.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 54 227.6 cm
+Q
+ 
+

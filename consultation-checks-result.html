@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Consultation landing page checks</title></head><body><pre id="results">PASS One descriptive main heading
+PASS Seven sections follow the brief
+PASS Same exact paid consultation CTA everywhere
+PASS All CTAs use the published full booking URL
+PASS Booking retains same-tab return path
+PASS Six FAQ answers present in HTML
+PASS No invented consultation price or duration
+PASS No lead capture or symptom collection
+PASS Online and in-person scope distinguished
+PASS Genuine local portrait loaded
+PASS Existing resource library retained
+PASS All in-page links resolve
+PASS FAQ summary is keyboard focusable
+PASS FAQ expands
+PASS FAQ collapses
+PASS CTA measurement contains only event and placement
+PASS No horizontal overflow at 1440px
+PASS CTA fits and has a 44px target at 1440px
+PASS No horizontal overflow at 1024px
+PASS CTA fits and has a 44px target at 1024px
+PASS No horizontal overflow at 768px
+PASS CTA fits and has a 44px target at 768px
+PASS No horizontal overflow at 390px
+PASS CTA fits and has a 44px target at 390px
+PASS No horizontal overflow at 320px
+PASS CTA fits and has a 44px target at 320px
+PASS Mobile primary CTA appears in first screen
+PASS Mobile sticky CTA hidden while hero is visible
+PASS Mobile sticky CTA appears after hero
+PASS Sticky CTA does not obscure expanded FAQ
+PASS Sticky CTA hidden beside final booking action
+PASS Sticky CTA absent on desktop</pre><iframe id="site" src="index.html" style="width: 1440px; height: 844px; border: 0px;"></iframe><script>
+const checks=[];
+const check=(name,condition)=>checks.push(`${condition?'PASS':'FAIL'} ${name}`);
+const wait=ms=>new Promise(resolve=>setTimeout(resolve,ms));
+document.getElementById('site').addEventListener('load',async()=>{
+try{
+ const frame=document.getElementById('site'),w=frame.contentWindow,d=w.document;
+ await d.fonts.ready;
+ d.documentElement.style.scrollBehavior='auto';
+ check('One descriptive main heading',d.querySelectorAll('h1').length===1&&d.querySelector('h1').textContent.includes('andrology specialist'));
+ check('Seven sections follow the brief',[...d.querySelectorAll('main > section')].map(s=>s.id).join(',')==='hero,understanding,consultation,benefits,specialist,questions,book');
+ const links=[...d.querySelectorAll('[data-booking]')];
+ check('Same exact paid consultation CTA everywhere',links.length===3&&links.every(a=>a.textContent.trim()==='Book a paid online consultation'));
+ check('All CTAs use the published full booking URL',links.every(a=>a.href==='https://drprabirbasu.zohobookings.in/drprabirbasu'));
+ check('Booking retains same-tab return path',links.every(a=>!a.target));
+ check('Six FAQ answers present in HTML',d.querySelectorAll('.faq-list details').length===6&&[...d.querySelectorAll('.faq-list details p')].every(p=>p.textContent.length>20));
+ check('No invented consultation price or duration',!/[₹$]|\b\d+\s*(?:minutes?|mins?)\b/i.test(d.body.textContent));
+ check('No lead capture or symptom collection',!d.querySelector('form,input,textarea'));
+ check('Online and in-person scope distinguished',d.querySelector('#consultation').textContent.includes('require in-person care')&&d.querySelector('#questions').textContent.includes('No particular result can be guaranteed'));
+ check('Genuine local portrait loaded',d.querySelector('.portrait-photo img').complete&&d.querySelector('.portrait-photo img').naturalWidth===932);
+ check('Existing resource library retained',d.querySelector('.site-footer a[href="library.html"]')!==null);
+ check('All in-page links resolve',[...d.querySelectorAll('a[href^="#"]')].every(a=>!!d.querySelector(a.hash)));
+ const summary=d.querySelector('.faq-list summary');summary.focus();check('FAQ summary is keyboard focusable',d.activeElement===summary);
+ summary.click();check('FAQ expands',summary.parentElement.open);summary.click();check('FAQ collapses',!summary.parentElement.open);
+ let measurement;
+ w.addEventListener('consultation:measurement',event=>measurement=event.detail);
+ links[0].addEventListener('click',event=>event.preventDefault(),{once:true});links[0].click();
+ check('CTA measurement contains only event and placement',measurement?.name==='primary_cta_click'&&measurement.placement==='hero'&&Object.keys(measurement).sort().join(',')==='name,placement');
+ for(const width of [1440,1024,768,390,320]){
+   frame.style.width=width+'px';w.dispatchEvent(new w.Event('resize'));await wait(100);
+   check(`No horizontal overflow at ${width}px`,d.documentElement.scrollWidth<=d.documentElement.clientWidth);
+   const cta=d.querySelector('[data-booking="hero"]').getBoundingClientRect();
+   check(`CTA fits and has a 44px target at ${width}px`,cta.left>=0&&cta.right<=d.documentElement.clientWidth&&cta.height>=44);
+ }
+ frame.style.width='390px';frame.style.height='844px';w.dispatchEvent(new w.Event('resize'));w.scrollTo(0,0);await wait(150);
+ check('Mobile primary CTA appears in first screen',d.querySelector('[data-booking="hero"]').getBoundingClientRect().bottom<844);
+ check('Mobile sticky CTA hidden while hero is visible',d.getElementById('mobile-booking').hidden);
+ w.scrollTo(0,d.getElementById('understanding').offsetTop+40);w.dispatchEvent(new w.Event('scroll'));await wait(150);
+ check('Mobile sticky CTA appears after hero',!d.getElementById('mobile-booking').hidden);
+ summary.parentElement.open=true;w.scrollTo(0,d.getElementById('questions').offsetTop);w.dispatchEvent(new w.Event('scroll'));await wait(150);
+ check('Sticky CTA does not obscure expanded FAQ',d.getElementById('mobile-booking').hidden);
+ summary.parentElement.open=false;w.scrollTo(0,d.getElementById('book').offsetTop);w.dispatchEvent(new w.Event('scroll'));await wait(150);
+ check('Sticky CTA hidden beside final booking action',d.getElementById('mobile-booking').hidden);
+ frame.style.width='1440px';w.scrollTo(0,d.getElementById('understanding').offsetTop);w.dispatchEvent(new w.Event('resize'));await wait(150);
+ check('Sticky CTA absent on desktop',d.getElementById('mobile-booking').hidden);
+}catch(error){checks.push('FAIL '+error.stack)}
+document.getElementById('results').textContent=checks.join('\n');
+});
+</script>
+</body></html>

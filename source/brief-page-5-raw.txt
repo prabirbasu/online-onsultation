@@ -1,0 +1,127 @@
+﻿1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.847059 .890196 .901961 RG
+n 48 45 m 564 45 l S
+.321569 .411765 .466667 rg
+BT 1 0 0 1 48 33 Tm /F2+0 7 Tf 8.4 TL (Dr. Prabir Basu  |  ED consultation landing page build brief) Tj T* ET
+BT 1 0 0 1 559.5464 33 Tm /F2+0 7 Tf 8.4 TL (5) Tj T* ET
+q
+1 0 0 1 54 714 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 6 Tm /F3+0 21 Tf 27 TL (Publish checklist and workspace prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 684 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 5 Tm /F3+0 13 Tf 18 TL (7 Facts to confirm before publishing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 664.2 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (\002 Exact consultation fee and currency; call duration; whether booking requires advance payment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 634.1 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm /F2+0 8.7 Tf 12.8 TL (\002 What the fee includes, what the visitor receives after the call, and which follow-ups, tests or procedures cost) Tj T* (extra.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 616.8 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (\002 Actual booking URL, platform behavior and whether a confirmation message or receipt is sent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 599.5 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (\002 How booking, video, records and payment descriptions are handled; use only verified privacy statements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 582.2 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (\002 Exact professional qualifications and approved photograph; any legally required practice information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 564.9 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (\002 How the consultation handles cases that require examination or in-person care.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 534.8 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm /F2+0 8.7 Tf 12.8 TL (These are implementation gaps, not permission to invent details. The current copy should be updated after each) Tj T* (fact is confirmed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 504.8 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 5 Tm /F3+0 13 Tf 18 TL (8 Paste-ready build instruction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 61 345.6 cm
+q
+.917647 .960784 .956863 rg
+n 0 152.2 490 -152.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 131.2 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 3.3 Tm /F3+0 7.7 Tf 11 TL (FOR A WEBSITE-BUILDING WORKSPACE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 12 10 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 106.5 Tm /F2+0 8.7 Tf 12.8 TL (Build a responsive landing page for Dr. Prabir Basu using the exact section order and approved copy in) Tj T* (this PDF. Create a calm premium clinical design with deep navy, muted teal, off-white, generous) Tj T* (whitespace and a genuine clinician photograph slot. Use one primary CTA label throughout: \003Book a paid) Tj T* (online consultation.\004 Link it to the verified booking URL only after it is supplied. Add an accessible FAQ) Tj T* (accordion and optional mobile sticky CTA. Do not invent a fee, duration, outcome guarantee, testimonial,) Tj T* (success rate, limited availability, privacy safeguard or clinical deliverable. Clearly distinguish the online) Tj T* (first consultation from any in-person examination or surgery. Make all headings semantic and the page) Tj T* (usable with keyboard and mobile screen readers. Leave operational facts as an internal launch checklist,) Tj T* (not public placeholder claims.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .890196 .901961 RG
+.5 w
+n 0 152.2 m 490 152.2 l S
+n 0 0 m 490 0 l S
+n 0 0 m 0 152.2 l S
+n 490 0 m 490 152.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 54 337.6 cm
+Q
+q
+1 0 0 1 54 307.6 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 5 Tm /F3+0 13 Tf 18 TL (9 Source and decision notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 249.4 cm
+q
+BT 1 0 0 1 0 42.5 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (Prepared from the offer details, earlier approved landing page sections and the two user-supplied research files:) Tj T* (Community Voice: ED in Men 40\00155 \(Reddit + Reviews\) and Market Research: 1:1 ED Consultation for HNW Men) Tj T* (40\00155) Tj (. Community anecdotes informed tone and objections; they are not presented as verified outcomes for Dr.) Tj T* (Basu\005s patients.) Tj T* ET
+Q
+Q
+ 
+

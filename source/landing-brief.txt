@@ -1,0 +1,178 @@
+﻿PAGE 1
+Dr. Prabir Basu  |  ED consultation landing page build brief
+1
+Private ED Consultation
+Landing Page Build Brief
+Copy, visual direction, interaction notes and a paste-ready workspace prompt | 17 September 2026
+PRIMARY DECISION
+The page should help a man aged 40\00155 decide whether to book a paid, confidential, one-on-one online
+consultation with Dr. Prabir Basu. The consultation is the conversion goal. A separate free lead magnet is
+not part of the approved offer.
+1 Strategy at a glance
+\002 Audience: men aged 40\00155 seeking discreet specialist help for erectile dysfunction; the intended commercial
+segment is high net worth, but the page need not label visitors by wealth.
+\002 Recognizable situation: erections are less reliable, medication may help inconsistently, and uncertainty affects
+confidence and intimacy.
+\002 Value: direct conversation with an andrology-focused specialist; an online first step; discussion of possible next
+steps tailored to the individual.
+\002 Outcome language: aim for understanding, an informed next decision, and progress toward sexual confidence.
+Never guarantee clinical improvement.
+\002 Single primary CTA: \003Book a paid online consultation.\004 Repeat the same wording in hero and footer; a sticky
+mobile CTA may use the same wording.
+2 Persuasion sequence
+Hero. Identify audience, problem, direct specialist access, and booking action.
+Problem. Reflect specific experiences without alarm or shame.
+Consultation. Explain what the conversation covers and its limits.
+Benefits. Show what online access, confidentiality and individual discussion do for the visitor.
+Specialist. Show genuine photograph and verified qualifications.
+FAQ. Answer purchase objections with operational facts.
+Final CTA. Invite booking without scarcity or pressure.
+3 LIFT guardrails
+Value: make the paid call tangible. Relevance: call out men 40\00155 and unreliable erections. Clarity: explain online
+first consultation and next step. Urgency: none invented. Anxiety: answer privacy, price and clinical scope.
+Distraction: avoid competing offers and excessive menus.
+PAGE 2
+Dr. Prabir Basu  |  ED consultation landing page build brief
+2
+Approved page copy
+The following text is the content for the landing page. Section labels are for the designer, not
+necessarily visible on the site.
+01 / Hero
+EYEBROW
+Private online ED consultation for men aged 40\00155
+HEADLINE
+Erections becoming less reliable? Speak directly with an andrology specialist.
+SUBHEADLINE
+In a one-on-one consultation with Dr. Prabir Basu, discuss what has changed, what you have tried, and which next
+steps may be appropriate. Start online, without an initial clinic visit.
+PRIMARY BUTTON
+Book a paid online consultation
+SUPPORTING TEXT
+The consultation is confidential. Any examination or procedure requiring an in-person visit can be discussed during
+the call.
+TRUST ELEMENT
+Place Dr. Basu\005s professional photograph and exact verified qualifications beside the CTA. Do not publish
+placeholder text.
+02 / Problem
+When you can\005t count on your erections, intimacy can start to feel uncertain
+You may still want to be close to your partner. But when you\005re unsure how your body will respond, it can be hard
+to relax and enjoy the moment.
+\002 You can get an erection, but struggle to keep it.
+\002 Erections that used to feel reliable now vary from one occasion to the next.
+\002 Medication helps sometimes, but you still wonder whether it will work.
+\002 You find yourself avoiding intimacy because you don\005t want another disappointing experience.
+You may also be left with questions you haven\005t felt comfortable asking: Why is this happening? Is it temporary?
+Are there other options? Waiting can mean more time spent with that uncertainty, including with your partner.
+You don\005t need to arrive with the answers.
+03 / The consultation
+A private conversation that starts with your questions
+In a one-on-one online consultation, you can tell Dr. Basu what is happening, what you have already tried, and
+what you want to improve.
+Together, you can discuss what may need further assessment and which options may be relevant to your situation.
+These can include medical treatment and, where appropriate, surgical options that would require in-person care.
+The aim is to help you understand your options and decide what to do next. The right approach - and its results -
+will depend on your circumstances.
+PAGE 3
+Dr. Prabir Basu  |  ED consultation landing page build brief
+3
+Approved page copy / continued
+04 / Why this first step helps
+Start from wherever you feel comfortable
+Your first consultation is online, so you can begin without travelling to a clinic.
+Talk openly, one-on-one
+You have space to explain what has changed and ask questions directly, in a confidential conversation with the
+doctor.
+Discuss options that fit your situation
+Rather than deciding on a treatment before you have spoken, you can discuss your concerns, previous treatment,
+and possible next steps with an andrology-focused specialist.
+05 / Your specialist
+Speak directly with Dr. Prabir Basu
+Your one-on-one consultation is with Dr. Basu, an andrology-focused specialist.
+Design note: add a genuine photograph and exact verified qualifications here. Do not insert success rates or testimonials unless
+documented and approved.
+06 / Frequently asked questions
+Is the first consultation online?
+Yes. The one-on-one consultation is delivered online, so you do not need to visit a clinic for the initial call.
+Is the consultation confidential?
+Yes. It is offered as a confidential, one-on-one conversation.
+Is this a free call?
+No. This is a paid consultation.
+What can we discuss?
+You can discuss your erectile difficulties and the medical, surgical, and coaching options that may be relevant to your situation.
+Can all treatment be completed online?
+No. The initial consultation is online. A procedure such as surgery would require in-person care.
+Will the consultation guarantee that my erections improve?
+No particular result can be guaranteed. The consultation gives you an opportunity to discuss your concerns and possible next steps
+with a specialist.
+07 / Final CTA
+Ready to talk about what\005s changed?
+You don\005t need to decide on a treatment today. Start with a private conversation with Dr. Basu to ask your
+questions and understand what your next steps could be.
+BUTTON
+Book a paid online consultation
+Your first conversation takes place online. If an examination or in-person treatment may be needed, that can be
+discussed during the call.
+PAGE 4
+Dr. Prabir Basu  |  ED consultation landing page build brief
+4
+Visual and interaction direction
+4 Design system
+\002 Look: premium, calm and clinical. Use deep navy, muted teal, warm off-white and restrained accents. Avoid
+sexualized imagery, flashing effects, stock photos of distressed couples, alarm graphics and \003miracle cure\004 visuals.
+\002 Type: generous headline size, comfortable line spacing, short paragraphs and high contrast. One consistent
+button style.
+\002 Imagery: a genuine professional photograph of Dr. Basu, used with consent and accurate credentials. Subtle
+abstract or architectural texture is preferable to patient-identifiable imagery.
+\002 Layout: desktop hero in two columns \(copy and doctor photograph\); mobile in one column with headline and CTA
+visible early. Keep line lengths short and generous whitespace.
+5 Interactions worth building
+\002 CTA: all primary buttons go to the same paid booking destination. Open a new tab only if the booking platform
+requires it; preserve a clear return path.
+\002 FAQ: accessible accordion with keyboard operation and visible focus state. Keep answers available in the HTML
+for accessibility and search indexing.
+\002 Mobile: optional sticky CTA after the hero scrolls away; it must not cover FAQ answers or payment information.
+\002 Process: a three-step visual may show \003Book \006 Online discussion \006 Discuss next steps,\004 but only if that matches
+the real booking flow. Do not imply a written plan, tests, prescription or follow-up is included unless confirmed.
+\002 Accessibility: semantic headings, readable labels, sufficient color contrast, alt text for the clinician photograph,
+tap targets and reduced-motion support. Avoid autoplay audio/video.
+6 Conversion and measurement
+Track page views, primary CTA clicks, booking start and completed paid bookings where the booking platform
+permits. Keep analytics free of symptom details and other sensitive information. Review mobile behavior and
+where visitors leave the booking flow before changing copy.
+LEAD MAGNET DECISION
+The current offer is a paid consultation
+. If you later choose a free guide or email capture, treat it as a
+separate, clearly labeled path for visitors not ready to book. Its topic, consent language, delivery method
+and follow-up sequence need separate approval. Do not insert it into this page by default.
+PAGE 5
+Dr. Prabir Basu  |  ED consultation landing page build brief
+5
+Publish checklist and workspace prompt
+7 Facts to confirm before publishing
+\002 Exact consultation fee and currency; call duration; whether booking requires advance payment.
+\002 What the fee includes, what the visitor receives after the call, and which follow-ups, tests or procedures cost
+extra.
+\002 Actual booking URL, platform behavior and whether a confirmation message or receipt is sent.
+\002 How booking, video, records and payment descriptions are handled; use only verified privacy statements.
+\002 Exact professional qualifications and approved photograph; any legally required practice information.
+\002 How the consultation handles cases that require examination or in-person care.
+These are implementation gaps, not permission to invent details. The current copy should be updated after each
+fact is confirmed.
+8 Paste-ready build instruction
+FOR A WEBSITE-BUILDING WORKSPACE
+Build a responsive landing page for Dr. Prabir Basu using the exact section order and approved copy in
+this PDF. Create a calm premium clinical design with deep navy, muted teal, off-white, generous
+whitespace and a genuine clinician photograph slot. Use one primary CTA label throughout: \003Book a paid
+online consultation.\004 Link it to the verified booking URL only after it is supplied. Add an accessible FAQ
+accordion and optional mobile sticky CTA. Do not invent a fee, duration, outcome guarantee, testimonial,
+success rate, limited availability, privacy safeguard or clinical deliverable. Clearly distinguish the online
+first consultation from any in-person examination or surgery. Make all headings semantic and the page
+usable with keyboard and mobile screen readers. Leave operational facts as an internal launch checklist,
+not public placeholder claims.
+9 Source and decision notes
+Prepared from the offer details, earlier approved landing page sections and the two user-supplied research files:
+Community Voice: ED in Men 40\00155 \(Reddit + Reviews\) and Market Research: 1:1 ED Consultation for HNW Men
+40\00155
+. Community anecdotes informed tone and objections; they are not presented as verified outcomes for Dr.
+Basu\005s patients.
+

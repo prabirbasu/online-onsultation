@@ -1,0 +1,32 @@
+PASS One descriptive main heading
+PASS Seven sections follow the brief
+PASS Same exact paid consultation CTA everywhere
+PASS All CTAs use the published full booking URL
+PASS Booking retains same-tab return path
+PASS Six FAQ answers present in HTML
+PASS No invented consultation price or duration
+PASS No lead capture or symptom collection
+PASS Online and in-person scope distinguished
+PASS Genuine local portrait loaded
+PASS Existing resource library retained
+PASS All in-page links resolve
+PASS FAQ summary is keyboard focusable
+PASS FAQ expands
+PASS FAQ collapses
+PASS CTA measurement contains only event and placement
+PASS No horizontal overflow at 1440px
+PASS CTA fits and has a 44px target at 1440px
+PASS No horizontal overflow at 1024px
+PASS CTA fits and has a 44px target at 1024px
+PASS No horizontal overflow at 768px
+PASS CTA fits and has a 44px target at 768px
+PASS No horizontal overflow at 390px
+PASS CTA fits and has a 44px target at 390px
+PASS No horizontal overflow at 320px
+PASS CTA fits and has a 44px target at 320px
+PASS Mobile primary CTA appears in first screen
+PASS Mobile sticky CTA hidden while hero is visible
+PASS Mobile sticky CTA appears after hero
+PASS Sticky CTA does not obscure expanded FAQ
+PASS Sticky CTA hidden beside final booking action
+PASS Sticky CTA absent on desktop

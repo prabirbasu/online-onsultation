@@ -1,0 +1,155 @@
+﻿1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.847059 .890196 .901961 RG
+n 48 45 m 564 45 l S
+.321569 .411765 .466667 rg
+BT 1 0 0 1 48 33 Tm /F2+0 7 Tf 8.4 TL (Dr. Prabir Basu  |  ED consultation landing page build brief) Tj T* ET
+BT 1 0 0 1 559.5464 33 Tm /F2+0 7 Tf 8.4 TL (1) Tj T* ET
+q
+1 0 0 1 54 687 cm
+q
+BT 1 0 0 1 0 33 Tm 27 TL .062745 .176471 .262745 rg /F3+0 21 Tf 27 TL (Private ED Consultation) Tj  T* (Landing Page Build Brief) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 660 cm
+q
+.321569 .411765 .466667 rg
+BT 1 0 0 1 0 5 Tm /F2+0 10 Tf 15 TL (Copy, visual direction, interaction notes and a paste-ready workspace prompt | 17 September 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 61 570.6 cm
+q
+.917647 .960784 .956863 rg
+n 0 75.4 490 -75.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 54.4 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 3.3 Tm /F3+0 7.7 Tf 11 TL (PRIMARY DECISION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 12 10 cm
+q
+BT 1 0 0 1 0 29.7 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (The page should help a man aged 40\00155 decide whether to book a paid, confidential, one-on-one online) Tj T* (consultation with Dr. Prabir Basu. The consultation is the conversion goal. A separate free lead magnet is) Tj T* (not part of the approved offer.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .890196 .901961 RG
+.5 w
+n 0 75.4 m 490 75.4 l S
+n 0 0 m 490 0 l S
+n 0 0 m 0 75.4 l S
+n 490 0 m 490 75.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 54 562.6 cm
+Q
+q
+1 0 0 1 54 532.6 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 5 Tm /F3+0 13 Tf 18 TL (1 Strategy at a glance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 500 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 Audience: men aged 40\00155 seeking discreet specialist help for erectile dysfunction; the intended commercial) Tj T* (segment is high net worth, but the page need not label visitors by wealth.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 469.9 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 Recognizable situation: erections are less reliable, medication may help inconsistently, and uncertainty affects) Tj T* (confidence and intimacy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 439.8 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 Value: direct conversation with an andrology-focused specialist; an online first step; discussion of possible next) Tj T* (steps tailored to the individual.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 409.7 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 Outcome language: aim for understanding, an informed next decision, and progress toward sexual confidence.) Tj T* (Never guarantee clinical improvement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 379.6 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (\002 Single primary CTA: \003Book a paid online consultation.\004 Repeat the same wording in hero and footer; a sticky) Tj T* (mobile CTA may use the same wording.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 349.6 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 5 Tm /F3+0 13 Tf 18 TL (2 Persuasion sequence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 331.1 cm
+q
+BT 1 0 0 1 0 3.9 Tm 11.5 TL .141176 .215686 .27451 rg /F2+0 7.6 Tf 11.5 TL (Hero. Identify audience, problem, direct specialist access, and booking action.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 314.6 cm
+q
+BT 1 0 0 1 0 3.9 Tm 11.5 TL .141176 .215686 .27451 rg /F2+0 7.6 Tf 11.5 TL (Problem. Reflect specific experiences without alarm or shame.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 298.1 cm
+q
+BT 1 0 0 1 0 3.9 Tm 11.5 TL .141176 .215686 .27451 rg /F2+0 7.6 Tf 11.5 TL (Consultation. Explain what the conversation covers and its limits.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 281.6 cm
+q
+BT 1 0 0 1 0 3.9 Tm 11.5 TL .141176 .215686 .27451 rg /F2+0 7.6 Tf 11.5 TL (Benefits. Show what online access, confidentiality and individual discussion do for the visitor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 265.1 cm
+q
+BT 1 0 0 1 0 3.9 Tm 11.5 TL .141176 .215686 .27451 rg /F2+0 7.6 Tf 11.5 TL (Specialist. Show genuine photograph and verified qualifications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 248.6 cm
+q
+BT 1 0 0 1 0 3.9 Tm 11.5 TL .141176 .215686 .27451 rg /F2+0 7.6 Tf 11.5 TL (FAQ. Answer purchase objections with operational facts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 232.1 cm
+q
+BT 1 0 0 1 0 3.9 Tm 11.5 TL .141176 .215686 .27451 rg /F2+0 7.6 Tf 11.5 TL (Final CTA. Invite booking without scarcity or pressure.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 202.1 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 5 Tm /F3+0 13 Tf 18 TL (3 LIFT guardrails) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 156.7 cm
+q
+BT 1 0 0 1 0 29.7 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (Value: make the paid call tangible. Relevance: call out men 40\00155 and unreliable erections. Clarity: explain online) Tj T* (first consultation and next step. Urgency: none invented. Anxiety: answer privacy, price and clinical scope.) Tj T* (Distraction: avoid competing offers and excessive menus.) Tj T* ET
+Q
+Q
+ 
+

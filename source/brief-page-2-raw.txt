@@ -1,0 +1,210 @@
+﻿1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.847059 .890196 .901961 RG
+n 48 45 m 564 45 l S
+.321569 .411765 .466667 rg
+BT 1 0 0 1 48 33 Tm /F2+0 7 Tf 8.4 TL (Dr. Prabir Basu  |  ED consultation landing page build brief) Tj T* ET
+BT 1 0 0 1 559.5464 33 Tm /F2+0 7 Tf 8.4 TL (2) Tj T* ET
+q
+1 0 0 1 54 714 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 6 Tm /F3+0 21 Tf 27 TL (Approved page copy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 672 cm
+q
+.321569 .411765 .466667 rg
+BT 1 0 0 1 0 20 Tm /F2+0 10 Tf 15 TL (The following text is the content for the landing page. Section labels are for the designer, not) Tj T* (necessarily visible on the site.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 643 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 4.8 Tm /F3+0 10.2 Tf 15 TL (01 / Hero) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 628 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 3.3 Tm /F3+0 7.7 Tf 11 TL (EYEBROW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 612.2 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (Private online ED consultation for men aged 40\00155) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 596.7 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 3.3 Tm /F3+0 7.7 Tf 11 TL (HEADLINE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 580.9 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (Erections becoming less reliable? Speak directly with an andrology specialist.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 565.4 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 3.3 Tm /F3+0 7.7 Tf 11 TL (SUBHEADLINE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 536.8 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm /F2+0 8.7 Tf 12.8 TL (In a one-on-one consultation with Dr. Prabir Basu, discuss what has changed, what you have tried, and which next) Tj T* (steps may be appropriate. Start online, without an initial clinic visit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 521.3 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 3.3 Tm /F3+0 7.7 Tf 11 TL (PRIMARY BUTTON) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 505.5 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (Book a paid online consultation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 490 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 3.3 Tm /F3+0 7.7 Tf 11 TL (SUPPORTING TEXT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 461.4 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm /F2+0 8.7 Tf 12.8 TL (The consultation is confidential. Any examination or procedure requiring an in-person visit can be discussed during) Tj T* (the call.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 445.9 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 3.3 Tm /F3+0 7.7 Tf 11 TL (TRUST ELEMENT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 417.3 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm /F2+0 8.7 Tf 12.8 TL (Place Dr. Basu\005s professional photograph and exact verified qualifications beside the CTA. Do not publish) Tj T* (placeholder text.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 392.3 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 4.8 Tm /F3+0 10.2 Tf 15 TL (02 / Problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 375.5 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (When you can\005t count on your erections, intimacy can start to feel uncertain) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 345.4 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm /F2+0 8.7 Tf 12.8 TL (You may still want to be close to your partner. But when you\005re unsure how your body will respond, it can be hard) Tj T* (to relax and enjoy the moment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 328.1 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (\002 You can get an erection, but struggle to keep it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 310.8 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (\002 Erections that used to feel reliable now vary from one occasion to the next.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 293.5 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (\002 Medication helps sometimes, but you still wonder whether it will work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 276.2 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (\002 You find yourself avoiding intimacy because you don\005t want another disappointing experience.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 246.1 cm
+q
+BT 1 0 0 1 0 16.9 Tm 12.8 TL .141176 .215686 .27451 rg /F2+0 8.7 Tf 12.8 TL (You may also be left with questions you haven\005t felt comfortable asking: Why is this happening? Is it temporary?) Tj T* (Are there other options? Waiting can mean more time spent with that uncertainty, including with your partner.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 228.8 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (You don\005t need to arrive with the answers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 203.8 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 4.8 Tm /F3+0 10.2 Tf 15 TL (03 / The consultation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 187 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (A private conversation that starts with your questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 156.9 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm /F2+0 8.7 Tf 12.8 TL (In a one-on-one online consultation, you can tell Dr. Basu what is happening, what you have already tried, and) Tj T* (what you want to improve.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 126.8 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm -0.050537 Tw /F2+0 8.7 Tf 12.8 TL (Together, you can discuss what may need further assessment and which options may be relevant to your situation.) Tj T* 0 Tw (These can include medical treatment and, where appropriate, surgical options that would require in-person care.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 96.7 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm /F2+0 8.7 Tf 12.8 TL (The aim is to help you understand your options and decide what to do next. The right approach - and its results -) Tj T* (will depend on your circumstances.) Tj T* ET
+Q
+Q
+ 
+

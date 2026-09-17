@@ -1,0 +1,225 @@
+﻿1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.847059 .890196 .901961 RG
+n 48 45 m 564 45 l S
+.321569 .411765 .466667 rg
+BT 1 0 0 1 48 33 Tm /F2+0 7 Tf 8.4 TL (Dr. Prabir Basu  |  ED consultation landing page build brief) Tj T* ET
+BT 1 0 0 1 559.5464 33 Tm /F2+0 7 Tf 8.4 TL (3) Tj T* ET
+q
+1 0 0 1 54 714 cm
+q
+.062745 .176471 .262745 rg
+BT 1 0 0 1 0 6 Tm /F3+0 21 Tf 27 TL (Approved page copy / continued) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 687 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 4.8 Tm /F3+0 10.2 Tf 15 TL (04 / Why this first step helps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 670.2 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (Start from wherever you feel comfortable) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 652.9 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (Your first consultation is online, so you can begin without travelling to a clinic.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 635.6 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (Talk openly, one-on-one) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 605.5 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm /F2+0 8.7 Tf 12.8 TL (You have space to explain what has changed and ask questions directly, in a confidential conversation with the) Tj T* (doctor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 588.2 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (Discuss options that fit your situation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 558.1 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm /F2+0 8.7 Tf 12.8 TL (Rather than deciding on a treatment before you have spoken, you can discuss your concerns, previous treatment,) Tj T* (and possible next steps with an andrology-focused specialist.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 533.1 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 4.8 Tm /F3+0 10.2 Tf 15 TL (05 / Your specialist) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 516.3 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (Speak directly with Dr. Prabir Basu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 499 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (Your one-on-one consultation is with Dr. Basu, an andrology-focused specialist.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 471.5 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 15.4 Tm /F2+0 7.6 Tf 11.5 TL (Design note: add a genuine photograph and exact verified qualifications here. Do not insert success rates or testimonials unless) Tj T* (documented and approved.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 446.5 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 4.8 Tm /F3+0 10.2 Tf 15 TL (06 / Frequently asked questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 431 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 3.9 Tm /F2+0 7.6 Tf 11.5 TL (Is the first consultation online?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 414.5 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 3.9 Tm /F2+0 7.6 Tf 11.5 TL (Yes. The one-on-one consultation is delivered online, so you do not need to visit a clinic for the initial call.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 398 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 3.9 Tm /F2+0 7.6 Tf 11.5 TL (Is the consultation confidential?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 381.5 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 3.9 Tm /F2+0 7.6 Tf 11.5 TL (Yes. It is offered as a confidential, one-on-one conversation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 365 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 3.9 Tm /F2+0 7.6 Tf 11.5 TL (Is this a free call?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 348.5 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 3.9 Tm /F2+0 7.6 Tf 11.5 TL (No. This is a paid consultation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 332 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 3.9 Tm /F2+0 7.6 Tf 11.5 TL (What can we discuss?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 315.5 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 3.9 Tm /F2+0 7.6 Tf 11.5 TL (You can discuss your erectile difficulties and the medical, surgical, and coaching options that may be relevant to your situation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 299 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 3.9 Tm /F2+0 7.6 Tf 11.5 TL (Can all treatment be completed online?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 282.5 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 3.9 Tm /F2+0 7.6 Tf 11.5 TL (No. The initial consultation is online. A procedure such as surgery would require in-person care.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 266 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 3.9 Tm /F2+0 7.6 Tf 11.5 TL (Will the consultation guarantee that my erections improve?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 238 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 15.4 Tm /F2+0 7.6 Tf 11.5 TL (No particular result can be guaranteed. The consultation gives you an opportunity to discuss your concerns and possible next steps) Tj T* (with a specialist.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 213 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 4.8 Tm /F3+0 10.2 Tf 15 TL (07 / Final CTA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 196.2 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (Ready to talk about what\005s changed?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 166.1 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm /F2+0 8.7 Tf 12.8 TL (You don\005t need to decide on a treatment today. Start with a private conversation with Dr. Basu to ask your) Tj T* (questions and understand what your next steps could be.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 150.6 cm
+q
+.031373 .498039 .54902 rg
+BT 1 0 0 1 0 3.3 Tm /F3+0 7.7 Tf 11 TL (BUTTON) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 134.8 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 4.1 Tm /F2+0 8.7 Tf 12.8 TL (Book a paid online consultation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 104.7 cm
+q
+.141176 .215686 .27451 rg
+BT 1 0 0 1 0 16.9 Tm /F2+0 8.7 Tf 12.8 TL (Your first conversation takes place online. If an examination or in-person treatment may be needed, that can be) Tj T* (discussed during the call.) Tj T* ET
+Q
+Q
+ 
+

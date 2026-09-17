@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Library checks</title><body><pre id="results">RUNNING</pre><iframe id="site" src="library.html" style="width:1440px;height:1000px"></iframe><script>
+const results=[];const check=(name,condition)=>results.push(`${condition?'PASS':'FAIL'} ${name}`);
+document.getElementById('site').addEventListener('load',()=>{try{
+const frame=document.getElementById('site'),w=frame.contentWindow,d=w.document;
+const click=selector=>d.querySelector(selector).click();
+const change=(id,value,type='change')=>{const e=d.getElementById(id);e.value=value;e.dispatchEvent(new w.Event(type,{bubbles:true}));};
+const cards=()=>[...d.querySelectorAll('.resource-card')];
+check('124 unique resources',w.RESOURCES.length===124&&new Set(w.RESOURCES.map(r=>r.id)).size===124);
+check('Valid external resource URLs',w.RESOURCES.every(r=>/^https:\/\//.test(r.url)&&!/[<>]/.test(r.url)));
+check('Initial six resources',cards().length===6);
+check('Desktop has no horizontal overflow',d.documentElement.scrollWidth<=d.documentElement.clientWidth);
+click('#load-more');check('Load more adds six',cards().length===12);
+change('search','kidney','input');check('Search filters cards',cards().length>0&&cards().every(c=>/kidney/i.test(c.textContent)));
+change('search','noresourcexyz','input');check('Empty result state',cards().length===0&&!d.getElementById('empty-state').hidden);
+click('#empty-reset');check('Reset restores library',cards().length===6);
+click('[data-format="Video"]');check('Video filter',cards().length===2&&cards().every(c=>/Video/.test(c.textContent)));
+click('#reset');change('language','Bengali');check('Bengali filter',cards().length>0&&cards().every(c=>/Bengali/.test(c.textContent)));
+click('#reset');click('[data-topic="Prostate health"]');check('Topic filter',cards().length>0&&cards().every(c=>/Prostate health/.test(c.textContent)));
+click('#reset');const bookmark=d.querySelector('[data-save]'),id=bookmark.dataset.save;const wasSaved=bookmark.getAttribute('aria-pressed')==='true';bookmark.click();check('Bookmark toggles',d.querySelector(`[data-save="${id}"]`).getAttribute('aria-pressed')===String(!wasSaved));
+if(wasSaved)d.querySelector(`[data-save="${id}"]`).click();
+click('#saved-toggle');check('Saved collection shows saved item',!!d.querySelector(`[data-save="${id}"]`));
+d.querySelector(`[data-save="${id}"]`).click();check('Unsave removes item from saved view',!d.querySelector(`[data-save="${id}"]`));
+if(wasSaved){click('#reset');d.querySelector(`[data-save="${id}"]`).click();}
+click('#reset');change('sort','title');const titles=cards().map(c=>c.querySelector('h3').textContent);check('Title sorting',titles.every((t,i)=>i===0||titles[i-1].localeCompare(t)<=0));
+check('Portrait loaded',d.querySelector('.portrait-wrap img').complete&&d.querySelector('.portrait-wrap img').naturalWidth>0);
+check('Internal anchor destinations exist',[...d.querySelectorAll('a[href^="#"]')].every(a=>a.hash===''||!!d.querySelector(a.hash)));
+frame.style.width='390px';void d.body.offsetHeight;check('Mobile has no horizontal overflow',d.documentElement.scrollWidth<=d.documentElement.clientWidth);
+frame.style.width='320px';void d.body.offsetHeight;check('Small mobile has no horizontal overflow',d.documentElement.scrollWidth<=d.documentElement.clientWidth);
+}catch(e){results.push('FAIL '+e.stack)}document.getElementById('results').textContent=results.join('\n');});
+</script></body></html>
