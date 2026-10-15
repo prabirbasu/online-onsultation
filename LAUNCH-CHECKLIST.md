@@ -26,6 +26,16 @@ This is an internal handover file, not public page content. The redesign is loca
 
 Booking start and completed paid booking events are not simulated. They need a supported integration with the booking platform and verification of the real payment lifecycle.
 
+## Home page redesign — confirm before publishing
+
+- [ ] Clinical review of all six illustrative stories by Dr. Basu.
+- [ ] Medical Council registration number to display (not yet supplied; nothing invented).
+- [ ] Confirm the hero portrait is a genuine, unaltered photograph suitable for professional use.
+- [ ] Confirm contact numbers reused from `library.html` are current: WhatsApp 8697793166, physical consultation 7603081355, Barasat clinic 9836641573 / 9831571605, admin@drprabirbasu.com.
+- [ ] Confirm "primarily practises in Kolkata" (taken from `library.html`).
+- [ ] Healthcare-law review against the Drugs and Magic Remedies (Objectionable Advertisements) Act 1954, medical council advertising rules and Telemedicine Practice Guidelines 2020.
+- [ ] Check aua.org and uroweb.org for any guideline amendments after the versions cited in the footer.
+
 ## Deployment scope
 
-Serve `index.html`, `consultation.css`, `consultation.js` and `assets/dr-prabir-basu.jpg`. To retain the library footer link, also serve `library.html`, `styles.css`, `app.js`, `resources.js`. Exclude source snapshots, checks, browser profiles and internal documentation from deployment.
+Serve `index.html`, `home.css`, `home.js`, `ed.html`, `consultation.css`, `consultation.js`, `assets/dr-prabir-basu.jpg` and `assets/dr-prabir-basu-portrait.jpg` (plus `assets/dr-prabir-basu-new.jpg.png`, used by `ed.html`). To retain the library footer link, also serve `library.html`, `styles.css`, `app.js`, `resources.js`. Exclude source snapshots, checks, browser profiles and internal documentation from deployment.

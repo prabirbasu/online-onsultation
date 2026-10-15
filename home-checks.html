@@ -1,0 +1,68 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Home page checks</title><body><pre id="results">RUNNING</pre><iframe id="site" src="index.html" style="width:1440px;height:1000px;border:0"></iframe><script>
+const checks=[];
+const check=(name,condition)=>checks.push(`${condition?'PASS':'FAIL'} ${name}`);
+const wait=ms=>new Promise(resolve=>setTimeout(resolve,ms));
+const BOOKING='https://drprabirbasu.zohobookings.in/drprabirbasu';
+const WHATSAPP='https://wa.me/918697793166?text=Hello%20Dr.%20Prabir%20Basu%27s%20team%2C%20I%20found%20you%20through%20the%20website%20and%20would%20like%20to%20know%20about%20consultation.';
+document.getElementById('site').addEventListener('load',async()=>{
+try{
+ const frame=document.getElementById('site'),w=frame.contentWindow,d=w.document;
+ await d.fonts.ready;
+ d.documentElement.style.scrollBehavior='auto';
+ check('One main heading',d.querySelectorAll('h1').length===1);
+ check('Sections in approved order',[...d.querySelectorAll('main > section')].map(s=>s.id).join(',')==='hero,how-it-works,stories,urgent,specialist,online-scope,questions,book');
+ const links=[...d.querySelectorAll('[data-booking]')];
+ check('Same exact booking label on every booking link',links.length===10&&links.every(a=>a.textContent.trim().replace(/\s*→$/,'')==='Book a paid online consultation'));
+ check('Every booking link uses the existing Zoho URL',links.every(a=>a.href===BOOKING));
+ check('No other Zoho URL variants on the page',[...d.querySelectorAll('a[href*="zoho"]')].every(a=>a.href===BOOKING));
+ check('Booking links open in the same tab',links.every(a=>!a.target));
+ check('WhatsApp hero link unchanged',d.querySelector('.secondary-button').getAttribute('href')===WHATSAPP);
+ check('Health library link retained',!!d.querySelector('a[href="library.html"]'));
+ check('ED page link present',!!d.querySelector('a[href="ed.html"]'));
+ const stories=[...d.querySelectorAll('.story')];
+ check('Six stories',stories.length===6);
+ check('Every story carries the composite label',stories.every(s=>/fictional composite/.test(s.querySelector('.story-badge').textContent)));
+ check('Every story separates pathways from results',stories.every(s=>/not a predicted result/.test(s.textContent)));
+ check('Every story has the four educational parts',stories.every(s=>['What a specialist may look at','Possible pathways','Worth knowing','Online or in person?'].every(h=>[...s.querySelectorAll('h4')].some(x=>x.textContent.startsWith(h)))));
+ const text=d.body.textContent;
+ check('No guarantee or superlative wording',!/\b(guaranteed (cure|results?|success)|100%|best|no\.? ?1|leading|cure[sd]?\b|permanent(ly)? (solution|cure)|risk-free|painless|miracle)\b/i.test(text.replace(/cannot be guaranteed|can be guaranteed|can’t guarantee|Guarantee a diagnosis/gi,'')));
+ check('No invented price or duration',!/[₹$]|\b\d+\s*(?:minutes?|mins?)\b/i.test(text));
+ check('No form or data collection',!d.querySelector('form,input,textarea,select'));
+ check('Optimised portrait loaded',d.querySelector('.portrait-photo img').complete&&d.querySelector('.portrait-photo img').naturalWidth===900);
+ check('All in-page links resolve',[...d.querySelectorAll('a[href^="#"]')].every(a=>!!d.querySelector(a.hash)));
+ const storySummary=d.querySelector('.story-details summary');storySummary.focus();
+ check('Story toggle is keyboard focusable',d.activeElement===storySummary);
+ storySummary.click();check('Story expands',storySummary.parentElement.open);storySummary.click();check('Story collapses',!storySummary.parentElement.open);
+ let measurement;
+ w.addEventListener('consultation:measurement',event=>measurement=event.detail);
+ links[0].addEventListener('click',event=>event.preventDefault(),{once:true});links[0].click();
+ check('CTA measurement contains only event and placement',measurement?.name==='primary_cta_click'&&measurement.placement==='hero'&&Object.keys(measurement).sort().join(',')==='name,placement');
+ for(const width of [1440,1024,768,390,320]){
+   frame.style.width=width+'px';w.dispatchEvent(new w.Event('resize'));await wait(120);
+   check(`No horizontal overflow at ${width}px`,d.documentElement.scrollWidth<=d.documentElement.clientWidth);
+   const cta=d.querySelector('[data-booking="hero"]').getBoundingClientRect();
+   check(`Hero CTA fits with a 44px target at ${width}px`,cta.left>=0&&cta.right<=d.documentElement.clientWidth&&cta.height>=44);
+   const small=[...d.querySelectorAll('main p, main li, main summary, main a, footer p, footer li')].filter(el=>el.offsetParent&&parseFloat(w.getComputedStyle(el).fontSize)<11);
+   check(`No visible text under 11px at ${width}px`,small.length===0);
+ }
+ frame.style.width='390px';frame.style.height='844px';w.dispatchEvent(new w.Event('resize'));w.scrollTo(0,0);await wait(150);
+ const menu=d.querySelector('.menu-button');
+ check('Mobile menu button visible',menu.offsetParent!==null&&menu.getAttribute('aria-expanded')==='false');
+ menu.click();await wait(50);
+ check('Mobile menu opens and reports state',menu.getAttribute('aria-expanded')==='true'&&d.getElementById('site-nav').offsetParent!==null);
+ d.dispatchEvent(new w.KeyboardEvent('keydown',{key:'Escape'}));await wait(50);
+ check('Escape closes mobile menu',menu.getAttribute('aria-expanded')==='false');
+ check('Mobile primary CTA in first screen',d.querySelector('[data-booking="hero"]').getBoundingClientRect().bottom<844);
+ check('Sticky CTA hidden while hero visible',d.getElementById('mobile-booking').hidden);
+ w.scrollTo(0,d.getElementById('how-it-works').offsetTop+40);w.dispatchEvent(new w.Event('scroll'));await wait(150);
+ check('Sticky CTA appears after hero',!d.getElementById('mobile-booking').hidden);
+ storySummary.parentElement.open=true;w.scrollTo(0,d.getElementById('story-ed').offsetTop+200);w.dispatchEvent(new w.Event('scroll'));await wait(150);
+ check('Sticky CTA hidden while reading a story',d.getElementById('mobile-booking').hidden);
+ storySummary.parentElement.open=false;w.scrollTo(0,d.getElementById('book').offsetTop);w.dispatchEvent(new w.Event('scroll'));await wait(150);
+ check('Sticky CTA hidden beside final booking action',d.getElementById('mobile-booking').hidden);
+ frame.style.width='1440px';w.scrollTo(0,d.getElementById('how-it-works').offsetTop);w.dispatchEvent(new w.Event('resize'));await wait(150);
+ check('Sticky CTA absent on desktop',d.getElementById('mobile-booking').hidden);
+}catch(error){checks.push('FAIL '+error.stack)}
+document.getElementById('results').textContent=checks.join('\n');
+});
+</script></body></html>

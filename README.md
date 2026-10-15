@@ -6,12 +6,19 @@ The landing page now follows the supplied ED consultation brief: hero, recogniza
 
 All three primary links use the same exact label and the full booking URL published on the original website. No consultation fee, duration, clinical guarantee or unconfirmed deliverable has been invented. The sticky mobile booking action appears after the hero and hides while an expanded FAQ is being read or the final booking section is visible.
 
+## Local redesign (branch `local-redesign`, not committed or deployed)
+
+`index.html` is now a broader urology and andrology consultation page: hero, how a consultation works, six illustrative stories (ED, low testosterone/libido, male infertility, chronic pelvic pain, Peyronie's disease, penile implants), urgent-care guidance, specialist, online scope, FAQs and final booking CTA. Every story is labelled as a fictional educational composite; there are no testimonials, outcomes or patient details. All booking buttons use the existing Zoho URL. The previous ED landing page is preserved unchanged as `ed.html`.
+
 ## Files
 
-- `index.html`, `consultation.css`, `consultation.js`: current landing page.
+- `index.html`, `home.css`, `home.js`: new home page. `home.css` loads after `consultation.css` and affects only this page.
+- `ed.html`, `consultation.css`, `consultation.js`: the previous ED landing page, unchanged.
+- `assets/dr-prabir-basu-portrait.jpg`: 900×900 optimised copy of the new portrait (~180 KB instead of 2 MB).
+- `home-checks.html`: checks for the new page (links, labels, stories, responsive layout, menu, sticky CTA).
 - `library.html`, `styles.css`, `app.js`, `resources.js`: preserved library of 124 linked resources, accessible from the footer.
 - `LAUNCH-CHECKLIST.md`: internal operational facts to confirm before publishing, content provenance and integration notes.
-- `consultation-checks.html`: checks for CTA consistency, page structure, FAQs, measurement hooks, responsive layout and sticky behavior.
+- `consultation-checks.html`: checks for the ED page (`ed.html`): CTA consistency, page structure, FAQs, measurement hooks, responsive layout and sticky behavior.
 - `library-checks.html`: checks for the preserved library.
 - `preview-desktop.png`, `preview-mobile.png`: latest rendered previews.
 
